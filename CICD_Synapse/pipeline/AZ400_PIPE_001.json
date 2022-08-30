@@ -1,0 +1,17 @@
+{
+	"name": "AZ400_PIPE_001",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait AZ400",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": []
+	}
+}
